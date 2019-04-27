@@ -1,2 +1,2 @@
-pyinstaller
-win10toast
+PyInstaller==3.3.1
+win10toast==0.9
